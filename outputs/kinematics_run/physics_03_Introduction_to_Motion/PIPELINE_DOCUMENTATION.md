@@ -62,7 +62,7 @@ Unlike a slideshow, the system generates **AI-animated 3D cartoon footage** usin
 | `scripts/generate_kinematics.sh` | First full generation from PDF/cards | Yes | Yes | Yes | Yes |
 | `scripts/rerender_scenes.sh` | Re-render video only (your current command) | Visual director only | No (reuses `voiceover.mp3`) | Yes | Yes |
 
-Your current command **skips** hook planning, story planning, and TTS. It reloads the existing `story_arc.json`, refreshes chunk prompts via the visual director, re-generates all scene clips, and re-composes the final video.
+Current command **skips** hook planning, story planning, and TTS. It reloads the existing `story_arc.json`, refreshes chunk prompts via the visual director, re-generates all scene clips, and re-composes the final video.
 
 ---
 
