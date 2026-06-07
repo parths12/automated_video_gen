@@ -1,0 +1,8 @@
+{
+  "hook_type": "real_world_anchor",
+  "opening_line": "Ever wonder how to split a ₹110 Diwali sweets bill between two friends? Let’s solve it using a secret scale!",
+  "visual_action": "3D cartoon Riya shrinks and enters a Diwali bazaar where she sees a magical scale with sweets on one side and money on the other",
+  "knowledge_gap_question": "How do we make sure both sides are equal?",
+  "analogy": "An equation is like a balance at a sweets stall — both sides must weigh the same",
+  "india_context": "Riya in a festive Diwali market surrounded by colorful sweets and lanterns"
+}

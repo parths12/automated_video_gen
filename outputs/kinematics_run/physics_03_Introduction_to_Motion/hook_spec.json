@@ -1,0 +1,8 @@
+{
+  "hook_type": "real_world_anchor",
+  "opening_line": "Have you ever seen a cricket player sprinting to catch a ball? Let’s shrink and dive into the action!",
+  "visual_action": "3D cartoon Arjun shrinks and enters a small, detailed cricket field, chasing after a flying ball",
+  "knowledge_gap_question": "How does the ball's movement relate to motion in physics?",
+  "analogy": "Motion is like the ball’s journey — it has speed, direction, and path",
+  "india_context": "Arjun in a vibrant cricket ground, surrounded by cheering spectators"
+}

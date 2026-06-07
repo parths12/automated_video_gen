@@ -1,0 +1,37 @@
+{
+  "topic": "Uniformly Accelerated Motion",
+  "grade": 11,
+  "chapter_name": "Motion in a Straight Line",
+  "chapter_number": 2,
+  "difficulty": "extension",
+  "definition": "Uniformly accelerated motion occurs when the acceleration is constant.",
+  "latex_equations": [
+    "v = v_0 + at",
+    "x = x_0 + v_0 t + \\frac{1}{2}at^2",
+    "v^2 = v_0^2 + 2a(x - x_0)"
+  ],
+  "worked_examples": [
+    {
+      "problem_statement": "A car starts from rest and accelerates uniformly at 5 m/s² for 10 seconds. Find its final velocity and displacement.",
+      "solution_steps": [
+        "Identify the initial velocity (0 m/s), acceleration (5 m/s²), and time (10 seconds).",
+        "Use the equation v = v_0 + at to find the final velocity.",
+        "Use the equation x = x_0 + v_0 t + \\frac{1}{2}at^2 to find the displacement."
+      ],
+      "answer": "The final velocity is 50 m/s and the displacement is 250 meters.",
+      "ncert_exercise_ref": "2.4"
+    }
+  ],
+  "common_errors": [
+    "Incorrectly applying the kinematic equations."
+  ],
+  "prerequisites": [
+    "Acceleration"
+  ],
+  "real_world_hooks": [
+    "School bus acceleration",
+    "Metro train deceleration",
+    "Market cart movement"
+  ],
+  "visual_metaphor": "A car accelerating and decelerating on a straight road."
+}

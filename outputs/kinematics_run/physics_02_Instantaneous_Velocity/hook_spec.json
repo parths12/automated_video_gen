@@ -1,0 +1,8 @@
+{
+  "hook_type": "real_world_anchor",
+  "opening_line": "Imagine zooming into the heart of Delhi Metro, where every second counts. Can you guess the exact speed of your next ride?",
+  "visual_action": "3D cartoon Arjun shrinks and goes inside a speeding Delhi Metro train, observing the speedometer fluctuate rapidly",
+  "knowledge_gap_question": "How does the speedometer show the train's speed at any given moment?",
+  "analogy": "A speedometer is like a digital clock, but instead of hours, it measures the distance covered in fractions of a second",
+  "india_context": ""
+}

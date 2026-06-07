@@ -1,0 +1,8 @@
+{
+  "hook_type": "real_world_anchor",
+  "opening_line": "Have you ever wondered how Vande Bharat reaches its top speed in just a few minutes?",
+  "visual_action": "3D cartoon Arjun shrinks and goes inside the Vande Bharat train, watching it accelerate from a standstill",
+  "knowledge_gap_question": "How does the train manage to go from zero to 160 km/h so quickly?",
+  "analogy": "Acceleration is like pushing a car — the harder you push, the faster it goes",
+  "india_context": ""
+}

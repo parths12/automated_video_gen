@@ -1,0 +1,37 @@
+{
+  "topic": "Acceleration",
+  "grade": 11,
+  "chapter_name": "Motion in a Straight Line",
+  "chapter_number": 2,
+  "difficulty": "core",
+  "definition": "Acceleration is the rate of change of velocity with respect to time.",
+  "latex_equations": [
+    "\\text{Average acceleration} = \\frac{\\Delta v}{\\Delta t}",
+    "\\text{Instantaneous acceleration} = \\lim_{\\Delta t \\to 0} \\frac{\\Delta v}{\\Delta t} = \\frac{dv}{dt}"
+  ],
+  "worked_examples": [
+    {
+      "problem_statement": "Calculate the acceleration of an object whose velocity changes from 10 m/s to 20 m/s in 5 seconds.",
+      "solution_steps": [
+        "Identify the initial and final velocities (10 m/s and 20 m/s).",
+        "Identify the time interval (5 seconds).",
+        "Use the formula for average acceleration.",
+        "Calculate the acceleration."
+      ],
+      "answer": "The average acceleration is 2 m/s².",
+      "ncert_exercise_ref": "2.2"
+    }
+  ],
+  "common_errors": [
+    "Confusing acceleration with velocity."
+  ],
+  "prerequisites": [
+    "Instantaneous Velocity"
+  ],
+  "real_world_hooks": [
+    "Cricket ball acceleration",
+    "Rocket takeoff",
+    "Monsoon wind speed"
+  ],
+  "visual_metaphor": "A car accelerating on a straight road."
+}

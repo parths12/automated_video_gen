@@ -1,0 +1,39 @@
+{
+  "topic": "Uniformly accelerated rectilinear motion",
+  "grade": 11,
+  "chapter_name": "Motion in a Straight Line",
+  "chapter_number": 2,
+  "difficulty": "core",
+  "definition": "When acceleration is constant along a straight line, displacement, velocity, and time are related by kinematic equations.",
+  "latex_equations": [
+    "v = u + at",
+    "s = ut + \\frac{1}{2}at^2",
+    "v^2 = u^2 + 2as"
+  ],
+  "worked_examples": [
+    {
+      "problem_statement": "A train starts from rest and accelerates at 2 m/s^2 for 10 s. Find final velocity and distance.",
+      "solution_steps": [
+        "u = 0, a = 2 m/s^2, t = 10 s",
+        "v = u + at = 20 m/s",
+        "s = ut + (1/2)at^2 = 100 m"
+      ],
+      "answer": "v = 20 m/s, s = 100 m",
+      "ncert_exercise_ref": "Chapter 2"
+    }
+  ],
+  "common_errors": [
+    "Confusing speed with velocity",
+    "Using equations when acceleration is not constant"
+  ],
+  "prerequisites": [
+    "Position and displacement",
+    "Average velocity"
+  ],
+  "real_world_hooks": [
+    "Vande Bharat train leaving New Delhi station",
+    "IPL cricket ball rolling on a straight pitch",
+    "Delhi Metro picking up speed between two stations"
+  ],
+  "visual_metaphor": "A train speeding up on a straight track with glowing markers showing position every second"
+}

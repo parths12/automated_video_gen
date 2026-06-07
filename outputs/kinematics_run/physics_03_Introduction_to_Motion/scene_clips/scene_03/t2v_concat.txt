@@ -1,0 +1,5 @@
+file '/mnt/data0/parth/ai_ed/ncert_fixed/outputs/kinematics_run/physics_03_Introduction_to_Motion/scene_clips/scene_03/t2v_chunk_00_trim.mp4'
+file '/mnt/data0/parth/ai_ed/ncert_fixed/outputs/kinematics_run/physics_03_Introduction_to_Motion/scene_clips/scene_03/t2v_chunk_01_trim.mp4'
+file '/mnt/data0/parth/ai_ed/ncert_fixed/outputs/kinematics_run/physics_03_Introduction_to_Motion/scene_clips/scene_03/t2v_chunk_02_trim.mp4'
+file '/mnt/data0/parth/ai_ed/ncert_fixed/outputs/kinematics_run/physics_03_Introduction_to_Motion/scene_clips/scene_03/t2v_chunk_03_trim.mp4'
+file '/mnt/data0/parth/ai_ed/ncert_fixed/outputs/kinematics_run/physics_03_Introduction_to_Motion/scene_clips/scene_03/t2v_chunk_04_trim.mp4'

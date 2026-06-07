@@ -1,0 +1,33 @@
+{
+  "topic": "Introduction to Motion",
+  "grade": 11,
+  "chapter_name": "Motion in a Straight Line",
+  "chapter_number": 2,
+  "difficulty": "foundational",
+  "definition": "Motion is the change in position of an object with time.",
+  "latex_equations": [
+    "\\text{speed} = \\frac{\\text{distance}}{\\text{time}}"
+  ],
+  "worked_examples": [
+    {
+      "problem_statement": "Describe the motion of a person walking from home to school.",
+      "solution_steps": [
+        "Identify the starting and ending points.",
+        "Measure the distance walked.",
+        "Record the time taken."
+      ],
+      "answer": "The person moved from home to school, covering a certain distance in a specific time.",
+      "ncert_exercise_ref": null
+    }
+  ],
+  "common_errors": [
+    "Confusing position with displacement."
+  ],
+  "prerequisites": [],
+  "real_world_hooks": [
+    "Highway traffic",
+    "White car at a traffic signal",
+    "Student watching vehicles on a flyover"
+  ],
+  "visual_metaphor": "A car starting from rest and gradually increasing its speed along a straight road."
+}

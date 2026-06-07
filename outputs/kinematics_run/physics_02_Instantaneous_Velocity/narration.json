@@ -1,0 +1,27 @@
+{
+  "full_script": "Come on, let's enjoy the magic of maths together! Imagine zooming into the heart of Delhi Metro, where every second counts. Can you guess the exact speed of your next ride? Watch how a car's speedometer shows the current speed at a specific moment. That's instantaneous velocity! For uniform acceleration, we use equations like this: Instantaneous velocity = limit as delta t approaches zero of delta x over delta t. Distance, velocity, time—linked on a straight line journey! Which NCERT topic should we do next? Comment below! Which NCERT topic should we explore next? Tell me in the comments!",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "text": "Imagine zooming into the heart of Delhi Metro, where every second counts. Can you guess the exact speed of your next ride?",
+      "pause_before_seconds": 0.0
+    },
+    {
+      "scene_number": 2,
+      "text": "Watch how a car's speedometer shows the current speed at a specific moment. That's instantaneous velocity!",
+      "pause_before_seconds": 0.5
+    },
+    {
+      "scene_number": 3,
+      "text": "For uniform acceleration, we use equations like this: Instantaneous velocity = limit as delta t approaches zero of delta x over delta t. Distance, velocity, time—linked on a straight line journey!",
+      "pause_before_seconds": 1.0
+    },
+    {
+      "scene_number": 4,
+      "text": "Which NCERT topic should we do next? Comment below!",
+      "pause_before_seconds": 0.0
+    }
+  ],
+  "language": "en",
+  "tone": "curious_friend"
+}

@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:18,649
+Have you ever wondered how Vande Bharat reaches its top speed in just a few minutes?
+
+2
+00:00:18,750 --> 00:00:37,399
+Its speed keeps increasing every second — that is acceleration! Velocity tells us how fast and in which direction the train moves.
+
+3
+00:00:37,500 --> 00:00:56,149
+For uniform acceleration we use equations like average acceleration equals delta v over delta t. Distance, velocity, time — all linked on a straight line journey!
+
+4
+00:00:56,250 --> 00:01:14,900
+Which NCERT topic should we do next? Comment below!

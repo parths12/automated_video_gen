@@ -1,0 +1,38 @@
+{
+  "topic": "Linear expressions vs linear equations",
+  "grade": 8,
+  "chapter_name": "Linear Equations in One Variable",
+  "chapter_number": 2,
+  "difficulty": "foundational",
+  "definition": "A linear expression has one variable with power 1. An equation uses = and has expressions on both sides.",
+  "latex_equations": [
+    "2x - 3",
+    "2x - 3 = 7",
+    "x = 5"
+  ],
+  "worked_examples": [
+    {
+      "problem_statement": "Is 2x - 3 = 7 an equation?",
+      "solution_steps": [
+        "It has an equality sign",
+        "Left side is 2x-3, right side is 7"
+      ],
+      "answer": "Yes, it is a linear equation in one variable",
+      "ncert_exercise_ref": null
+    }
+  ],
+  "common_errors": [
+    "Confusing expressions with equations",
+    "Thinking x^2 terms are linear"
+  ],
+  "prerequisites": [
+    "Variables",
+    "Algebraic expressions"
+  ],
+  "real_world_hooks": [
+    "A chaiwala charges ₹15 base plus ₹8 per km — students write total fare as 15+8k.",
+    "Riya saves ₹50 per week starting with ₹200 — amount after w weeks is 200+50w.",
+    "An auto meter shows ₹25 plus ₹12 per km — fare equation for a 5 km ride."
+  ],
+  "visual_metaphor": "A balance scale where both pans must always stay level"
+}

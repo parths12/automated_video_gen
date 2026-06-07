@@ -1,0 +1,16 @@
+{
+  "series_name": "NCERT Math Shorts India",
+  "main_character": {
+    "name": "Arjun",
+    "description": "Friendly Indian Class 8 student, school uniform, curious expression, brown skin, short black hair",
+    "age": 13
+  },
+  "style": {
+    "visual": "3D cartoon Pixar-like educational animation",
+    "lighting": "bright warm classroom lighting",
+    "aspect_ratio": "9:16 vertical",
+    "palette": ["#4A90D9", "#F5A623", "#7ED321", "#FFFFFF", "#2C3E50"]
+  },
+  "recurring_props": ["golden balance scale", "glowing numbers", "NCERT textbook", "Indian classroom chalkboard"],
+  "negative_prompt": "blurry, low quality, wrong math text in scene, western classroom, scary"
+}

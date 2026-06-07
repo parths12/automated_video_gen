@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:18,649
+Ravi and Priya at the sweets shop. 110 sweets, but Ravi takes 5 first!
+
+2
+00:00:18,750 --> 00:00:37,399
+Now 110 minus 5 leaves us with 95 sweets. How do we split them?
+
+3
+00:00:37,500 --> 00:00:56,149
+Detective scale shows 47 and a half each! But no halves in sweets!
+
+4
+00:00:56,250 --> 00:01:14,900
+Balancing scales like solving equations. Which topic next? Comment below!

@@ -1,0 +1,27 @@
+{
+  "full_script": "Come on, let's enjoy the magic of maths together! Have you ever seen a cricket player sprinting to catch a ball? Let's shrink and dive into the action! Watch how a person walking from home to school. Notice their speed and path. Now you can see why the maths works! We measure distance, time, and speed. Which NCERT topic should we do next? Comment below! Which NCERT topic should we explore next? Tell me in the comments!",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "text": "Have you ever seen a cricket player sprinting to catch a ball? Let's shrink and dive into the action!",
+      "pause_before_seconds": 0.0
+    },
+    {
+      "scene_number": 2,
+      "text": "Watch how a person walking from home to school. Notice their speed and path.",
+      "pause_before_seconds": 0.5
+    },
+    {
+      "scene_number": 3,
+      "text": "Now you can see why the maths works! We measure distance, time, and speed.",
+      "pause_before_seconds": 1.0
+    },
+    {
+      "scene_number": 4,
+      "text": "Which NCERT topic should we do next? Comment below!",
+      "pause_before_seconds": 0.0
+    }
+  ],
+  "language": "en",
+  "tone": "curious_friend"
+}

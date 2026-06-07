@@ -1,0 +1,35 @@
+{
+  "topic": "Average Velocity",
+  "grade": 11,
+  "chapter_name": "Motion in a Straight Line",
+  "chapter_number": 2,
+  "difficulty": "foundational",
+  "definition": "Average velocity is the total displacement divided by the total time taken.",
+  "latex_equations": [
+    "\\text{Average velocity} = \\frac{\\Delta x}{\\Delta t}"
+  ],
+  "worked_examples": [
+    {
+      "problem_statement": "Calculate the average velocity of a car that travels 100 meters in 20 seconds.",
+      "solution_steps": [
+        "Identify the displacement (100 meters) and time (20 seconds).",
+        "Use the formula for average velocity.",
+        "Calculate the average velocity."
+      ],
+      "answer": "The average velocity is 5 m/s.",
+      "ncert_exercise_ref": "2.1"
+    }
+  ],
+  "common_errors": [
+    "Using total distance instead of displacement."
+  ],
+  "prerequisites": [
+    "Introduction to Motion"
+  ],
+  "real_world_hooks": [
+    "School bus route",
+    "Metro train journey",
+    "Market stall movement"
+  ],
+  "visual_metaphor": "A car moving on a straight road."
+}

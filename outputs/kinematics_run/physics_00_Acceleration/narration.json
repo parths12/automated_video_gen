@@ -1,0 +1,27 @@
+{
+  "full_script": "Come on, let's enjoy the magic of maths together! Have you ever wondered how Vande Bharat reaches its top speed in just a few minutes? Its speed keeps increasing every second — that is acceleration! Velocity tells us how fast and in which direction the train moves. For uniform acceleration we use equations like average acceleration equals delta v over delta t. Distance, velocity, time — all linked on a straight line journey! Which NCERT topic should we do next? Comment below! Which NCERT topic should we explore next? Tell me in the comments!",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "text": "Have you ever wondered how Vande Bharat reaches its top speed in just a few minutes?",
+      "pause_before_seconds": 0.0
+    },
+    {
+      "scene_number": 2,
+      "text": "Its speed keeps increasing every second — that is acceleration! Velocity tells us how fast and in which direction the train moves.",
+      "pause_before_seconds": 0.5
+    },
+    {
+      "scene_number": 3,
+      "text": "For uniform acceleration we use equations like average acceleration equals delta v over delta t. Distance, velocity, time — all linked on a straight line journey!",
+      "pause_before_seconds": 1.0
+    },
+    {
+      "scene_number": 4,
+      "text": "Which NCERT topic should we do next? Comment below!",
+      "pause_before_seconds": 0.0
+    }
+  ],
+  "language": "en",
+  "tone": "curious_friend"
+}

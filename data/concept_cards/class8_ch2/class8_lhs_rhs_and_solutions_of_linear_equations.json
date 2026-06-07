@@ -1,0 +1,39 @@
+{
+  "topic": "LHS, RHS and solutions of linear equations",
+  "grade": 8,
+  "chapter_name": "Linear Equations in One Variable",
+  "chapter_number": 2,
+  "difficulty": "core",
+  "definition": "LHS is the left expression, RHS the right. A solution is the value of x that makes both sides equal.",
+  "latex_equations": [
+    "2x - 3 = 7",
+    "x = 5",
+    "LHS = RHS"
+  ],
+  "worked_examples": [
+    {
+      "problem_statement": "Verify x=5 for 2x-3=7",
+      "solution_steps": [
+        "Substitute x=5",
+        "LHS = 2(5)-3 = 7",
+        "RHS = 7",
+        "LHS = RHS"
+      ],
+      "answer": "x=5 is a solution",
+      "ncert_exercise_ref": "Section 2.1"
+    }
+  ],
+  "common_errors": [
+    "Checking only LHS",
+    "Assuming any number is a solution"
+  ],
+  "prerequisites": [
+    "Linear expressions vs equations"
+  ],
+  "real_world_hooks": [
+    "Two friends split a ₹110 bill equally — find share using x.",
+    "Train ticket: child pays half of adult fare, total ₹450 for 1 adult + 2 children.",
+    "Diwali sale: price after ₹200 discount equals half original — find original."
+  ],
+  "visual_metaphor": "A detective scale that lights up green only when LHS equals RHS"
+}

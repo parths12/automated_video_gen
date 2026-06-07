@@ -1,0 +1,37 @@
+{
+  "topic": "Applications of linear equations in one variable",
+  "grade": 8,
+  "chapter_name": "Linear Equations in One Variable",
+  "chapter_number": 2,
+  "difficulty": "extension",
+  "definition": "Translate word problems into linear equations, solve, and check if the answer fits the situation.",
+  "latex_equations": [
+    "ax + b = c",
+    "x = \\frac{c-b}{a}"
+  ],
+  "worked_examples": [
+    {
+      "problem_statement": "A number increased by 8 is 26. Find the number.",
+      "solution_steps": [
+        "Let number be x",
+        "x + 8 = 26",
+        "x = 18"
+      ],
+      "answer": "18",
+      "ncert_exercise_ref": null
+    }
+  ],
+  "common_errors": [
+    "Wrong variable setup",
+    "Not checking if answer is realistic"
+  ],
+  "prerequisites": [
+    "Reducing equations with fractions"
+  ],
+  "real_world_hooks": [
+    "Age puzzle: father is 3× son's age; in 12 years twice son's age.",
+    "Shopkeeper profit: cost + 20% = selling price ₹240.",
+    "Cricket: runs in two innings total 180, second is 30 more than first."
+  ],
+  "visual_metaphor": "A story comic strip where each panel becomes one line of the equation"
+}

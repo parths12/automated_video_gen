@@ -1,0 +1,35 @@
+{
+  "topic": "Instantaneous Velocity",
+  "grade": 11,
+  "chapter_name": "Motion in a Straight Line",
+  "chapter_number": 2,
+  "difficulty": "core",
+  "definition": "Instantaneous velocity is the velocity at a particular moment in time.",
+  "latex_equations": [
+    "\\text{Instantaneous velocity} = \\lim_{\\Delta t \\to 0} \\frac{\\Delta x}{\\Delta t} = \\frac{dx}{dt}"
+  ],
+  "worked_examples": [
+    {
+      "problem_statement": "Find the instantaneous velocity of a car at t = 4 seconds given x = 0.08t^3.",
+      "solution_steps": [
+        "Identify the position function x = 0.08t^3.",
+        "Differentiate the position function to get the velocity function.",
+        "Substitute t = 4 into the velocity function."
+      ],
+      "answer": "The instantaneous velocity at t = 4 seconds is 3.84 m/s.",
+      "ncert_exercise_ref": "2.1"
+    }
+  ],
+  "common_errors": [
+    "Misunderstanding the difference between average and instantaneous velocity."
+  ],
+  "prerequisites": [
+    "Average Velocity"
+  ],
+  "real_world_hooks": [
+    "Cricket ball trajectory",
+    "Rocket launch",
+    "Monsoon raindrops"
+  ],
+  "visual_metaphor": "A car's velocity changing over time."
+}

@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:09,274
+Imagine zooming into the heart of
+Delhi Metro, where every second
+counts.
+
+2
+00:00:09,324 --> 00:00:18,649
+Can you guess the exact speed of your
+next ride?
+
+3
+00:00:18,750 --> 00:00:28,024
+Watch how a car's speedometer shows
+the current speed at a specific
+moment.
+
+4
+00:00:28,074 --> 00:00:37,399
+That's instantaneous velocity!
+
+5
+00:00:37,500 --> 00:00:43,666
+For uniform acceleration, we use
+equations like this:
+
+6
+00:00:43,716 --> 00:00:49,883
+Instantaneous velocity = limit as
+delta t approaches zero of delta x
+over delta t.
+
+7
+00:00:49,933 --> 00:00:56,149
+Distance, velocity, time—linked on a
+straight line journey!
+
+8
+00:00:56,250 --> 00:01:05,525
+Which NCERT topic should we do next?
+
+9
+00:01:05,575 --> 00:01:14,900
+Comment below!

@@ -1,0 +1,67 @@
+{
+  "topic": "LHS, RHS and solutions of linear equations",
+  "grade": 8,
+  "total_duration_seconds": 75,
+  "hook_summary": "Resolves: How do we make sure both sides are equal?",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "title": "The problem appears",
+      "duration_seconds": 18,
+      "narration": "Ravi and Priya visit a Diwali sweets shop where they see a display of 110 sweets. But wait — Ravi takes five sweets before they can share!",
+      "animation_description": "Beat 1 of the Diwali sweets shop story",
+      "manim_hint": "",
+      "reveals_formula": false,
+      "video_prompt": "",
+      "math_overlay": null,
+      "shot_type": "journey"
+    },
+    {
+      "scene_number": 2,
+      "title": "What's left?",
+      "duration_seconds": 20,
+      "narration": "One hundred and ten minus five equals ninety-five sweets left. Now how do we split them fairly between Ravi and Priya?",
+      "animation_description": "Beat 2 — subtraction",
+      "manim_hint": "",
+      "reveals_formula": false,
+      "video_prompt": "",
+      "math_overlay": "110 - 5 = 95",
+      "shot_type": "journey"
+    },
+    {
+      "scene_number": 3,
+      "title": "Fair share",
+      "duration_seconds": 22,
+      "narration": "Ninety-five divided by two equals forty-seven and a half! But since we can't split a sweet, let's use the detective scale to find the exact number. Both sides must be equal for the scale to light up green.",
+      "animation_description": "Beat 3 — equal division reveal",
+      "manim_hint": "",
+      "reveals_formula": true,
+      "video_prompt": "",
+      "math_overlay": "95 / 2 = 47.5",
+      "shot_type": "reveal"
+    },
+    {
+      "scene_number": 4,
+      "title": "Real maths connection",
+      "duration_seconds": 15,
+      "narration": "Just like balancing an equation — take away, then divide equally. Which NCERT topic next? Comment below!",
+      "animation_description": "Beat 4 — celebration",
+      "manim_hint": "",
+      "reveals_formula": false,
+      "video_prompt": "",
+      "math_overlay": null,
+      "shot_type": "recap"
+    }
+  ],
+  "quiz_question": "For this concept (LHS, RHS and solutions of linear equatio), which statement is true?",
+  "quiz_correct_answer": "Both sides of an equation must stay equal — like a balance scale",
+  "quiz_distractors": [
+    "Checking only LHS",
+    "Assuming any number is a solution",
+    "A common mistake students make"
+  ],
+  "unified_story": true,
+  "scenario_title": "Story for LHS, RHS and solutions of linear equatio",
+  "scenario_summary": "Micro-story illustrating LHS is the left expression, RHS the right. A solution is the value of x that makes both sides equal.",
+  "master_video_prompt": "One continuous 3D Pixar cartoon vertical 9:16: four Indian school friends in a bright classroom, 3D cartoon Riya shrinks and enters a Diwali bazaar where she sees a magical scale with sweets on one side and money on t, glowing numbers appear as friendly floating blocks, a golden balance scale levels when both sides match, children cheer, warm lighting, smooth camera dolly, no text on screen"
+}

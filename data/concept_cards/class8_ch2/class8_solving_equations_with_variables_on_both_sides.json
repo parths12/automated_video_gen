@@ -1,0 +1,37 @@
+{
+  "topic": "Solving equations with variables on both sides",
+  "grade": 8,
+  "chapter_name": "Linear Equations in One Variable",
+  "chapter_number": 2,
+  "difficulty": "core",
+  "definition": "Collect variable terms on one side and constants on the other, then solve.",
+  "latex_equations": [
+    "2x - 3 = x + 2",
+    "x = 5",
+    "5x + 7 = 3x - 14"
+  ],
+  "worked_examples": [
+    {
+      "problem_statement": "Solve 2x - 3 = x + 2",
+      "solution_steps": [
+        "Subtract x from both sides: x - 3 = 2",
+        "Add 3 to both sides: x = 5"
+      ],
+      "answer": "x = 5",
+      "ncert_exercise_ref": "Example 1, Section 2.2"
+    }
+  ],
+  "common_errors": [
+    "Moving x without changing sign",
+    "Applying operation to only one side"
+  ],
+  "prerequisites": [
+    "LHS, RHS and solutions"
+  ],
+  "real_world_hooks": [
+    "Riya has ₹200+50w, Priya has ₹80+80w — when are savings equal?",
+    "IPL: Virat scores 3× Rohit minus 10; together 90 runs.",
+    "Two trains approach — find meeting time using distance equations."
+  ],
+  "visual_metaphor": "Moving weights between pans of a balance scale to isolate x"
+}

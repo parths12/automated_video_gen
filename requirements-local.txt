@@ -1,0 +1,12 @@
+# Local Hugging Face inference (install on top of requirements.txt)
+# IMPORTANT: install PyTorch for CUDA 12.4 to match driver (NOT cu130):
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu124
+torch>=2.5.0
+transformers>=4.44.0
+accelerate>=0.33.0
+diffusers>=0.32.0
+sentencepiece>=0.2.0
+protobuf>=4.25.0
+safetensors>=0.4.0
+huggingface-hub>=0.24.0
+ftfy>=6.1.0

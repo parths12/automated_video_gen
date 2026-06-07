@@ -1,0 +1,111 @@
+# --- Secrets & local env ---
+.env
+.env.local
+.env.*.local
+!.env.example
+!.env.local.example
+
+# --- Regeneratable data (PDF parse step) ---
+data/parsed/
+
+# --- Large source assets (keep concept_cards/*.json tracked) ---
+data/pdfs/
+*.pdf
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# --- Virtual environments ---
+.venv/
+venv/
+ENV/
+env/
+
+# --- Testing & type checking ---
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- IDE & OS ---
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# --- Logs & temp ---
+*.log
+logs/
+tmp/
+temp/
+.tmp/
+*.tmp
+
+# --- Model / HF caches (if downloaded inside repo) ---
+.cache/
+huggingface/
+hf_models_cache/
+models/
+checkpoints/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+
+# --- Video / audio / large media (outside outputs/) ---
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.mp3
+*.wav
+*.flac
+*.m4a
+!outputs/
+!outputs/**
+
+# --- Manim / ffmpeg intermediates (outside outputs/) ---
+media/
+*.concat.txt
+concat.txt
+t2v_concat.txt
+i2v_concat.txt
+!outputs/**/t2v_concat.txt
+!outputs/**/i2v_concat.txt
+
+# --- FramePack (optional external clone) ---
+FramePack/

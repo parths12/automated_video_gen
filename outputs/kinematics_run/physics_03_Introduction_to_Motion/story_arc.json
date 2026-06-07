@@ -1,0 +1,92 @@
+{
+  "topic": "Introduction to Motion",
+  "grade": 11,
+  "total_duration_seconds": 75,
+  "hook_summary": "Resolves: How does the ball's movement relate to motion in physics?",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "title": "Hook journey",
+      "duration_seconds": 18,
+      "narration": "Have you ever seen a cricket player sprinting to catch a ball? Let’s shrink and dive into the action!",
+      "animation_description": "Setting=city_car; 4 chunks",
+      "manim_hint": "",
+      "reveals_formula": false,
+      "video_prompt": "City road: white car starts from traffic light",
+      "chunk_prompts": [
+        "3D Pixar, vertical 9:16, India, no text. White car stopped at red traffic light on a straight city road. Wide shot.",
+        "3D Pixar, vertical 9:16, India, no text. Same white car, same road. Light turns green. Car creeps forward slowly.",
+        "3D Pixar, vertical 9:16, India, no text. Same white car, same road. Car moves a little faster. Side tracking shot.",
+        "3D Pixar, vertical 9:16, India, no text. Same white car, same road. Steady slow drive. Trees in background."
+      ],
+      "math_overlay": null,
+      "shot_type": "journey"
+    },
+    {
+      "scene_number": 2,
+      "title": "See the metaphor",
+      "duration_seconds": 20,
+      "narration": "Watch how A person walking from home to school.",
+      "animation_description": "Setting=city_car; 4 chunks",
+      "manim_hint": "",
+      "reveals_formula": false,
+      "video_prompt": "Same road: car accelerates faster",
+      "chunk_prompts": [
+        "3D Pixar, vertical 9:16, India, no text. Same white car, same road. Car accelerates, speed clearly increasing.",
+        "3D Pixar, vertical 9:16, India, no text. Same white car, same road. Shop fronts pass faster. Motion on asphalt.",
+        "3D Pixar, vertical 9:16, India, no text. Same white car, same road. Low angle beside car. Faster roll.",
+        "3D Pixar, vertical 9:16, India, no text. Same white car, same road. Long straight ahead. Smooth acceleration."
+      ],
+      "math_overlay": "\\text{speed} = \\frac{\\text{distance}}{\\text{time}}",
+      "shot_type": "journey"
+    },
+    {
+      "scene_number": 3,
+      "title": "The reveal",
+      "duration_seconds": 22,
+      "narration": "Now you can see why the maths works!",
+      "animation_description": "Setting=city_car; 5 chunks",
+      "manim_hint": "",
+      "reveals_formula": true,
+      "video_prompt": "Same road: car still accelerating, motion trail",
+      "chunk_prompts": [
+        "3D Pixar, vertical 9:16, India, no text. Same white car, same road. Car keeps driving at steady speed.",
+        "3D Pixar, vertical 9:16, India, no text. Same white car, same road. Gentle tracking shot, same world.",
+        "3D Pixar, vertical 9:16, India, no text. Same white car, same road. Gentle tracking shot, same world.",
+        "3D Pixar, vertical 9:16, India, no text. Same white car, same road. Gentle tracking shot, same world.",
+        "3D Pixar, vertical 9:16, India, no text. Same white car, same road. Gentle tracking shot, same world."
+      ],
+      "math_overlay": "\\text{speed} = \\frac{\\text{distance}}{\\text{time}}",
+      "shot_type": "reveal"
+    },
+    {
+      "scene_number": 4,
+      "title": "Recap",
+      "duration_seconds": 15,
+      "narration": "Which NCERT topic should we do next? Comment below!",
+      "animation_description": "Setting=city_car; 3 chunks",
+      "manim_hint": "",
+      "reveals_formula": false,
+      "video_prompt": "Same road: car recap, student waves",
+      "chunk_prompts": [
+        "3D Pixar, vertical 9:16, India, no text. Same white car, same road. Car keeps driving at steady speed.",
+        "3D Pixar, vertical 9:16, India, no text. Same white car, same road. Gentle tracking shot, same world.",
+        "3D Pixar, vertical 9:16, India, no text. Same white car, same road. Gentle tracking shot, same world."
+      ],
+      "math_overlay": null,
+      "shot_type": "recap"
+    }
+  ],
+  "quiz_question": "What best describes: Introduction to Motion?",
+  "quiz_correct_answer": "Confusing position with displacement.",
+  "quiz_distractors": [
+    "Confusing position with displacement.",
+    "A common mistake students make",
+    "A common mistake students make"
+  ],
+  "unified_story": true,
+  "scenario_title": "Introduction to Motion",
+  "scenario_summary": "Motion is the change in position of an object with time. (Visual: one city car story throughout.)",
+  "master_video_prompt": "Single continuous city car — same location and subject all beats",
+  "visual_setting": "city_car"
+}
